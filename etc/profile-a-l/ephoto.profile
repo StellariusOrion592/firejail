@@ -63,7 +63,7 @@ seccomp
 seccomp.block-secondary
 tracelog
 
-disable-mnt
+#disable-mnt
 private-bin efreetd,ephoto
 private-cache
 private-dev
